@@ -13,7 +13,7 @@
 
 ## 🛠️ Tech Stack
 
-<table>
+<table align="center">
   <tr>
     <td>
       <b>Programming</b><br>
